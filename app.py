@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="Ứng Dụng Tính Lãi Tiết Kiệm", page_icon="💰", layout="centered"
 )
 
-st.title("💰 Ứng Dụng Tính Lãi Tiết Kiệm Ngân Hàng")
+st.title("💰 Ứng Dụng Tính Lãi Tiết Kiệm Ngân Hàng- Huỳnh Tuấn Minh")
 st.write(
     "Nhập các thông tin bên dưới để tính toán số tiền lãi và tổng số tiền nhận được khi gửi tiết kiệm."
 )
